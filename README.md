@@ -10,3 +10,6 @@ Instead of just watching tutorials, I focus on implementing each concept and com
 
 ## Goal
 Build a strong, practical understanding of core React concepts by writing code consistently.
+
+## Progress
+- Implemented first custom React components without JSX using React.createElement.
