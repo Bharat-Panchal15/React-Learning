@@ -14,3 +14,9 @@ Build a strong, practical understanding of core React concepts by writing code c
 ## Progress
 - Implemented first custom React components without JSX using React.createElement.
 - Migrated React setup from CDN-based scripts to Vite with ESLint and Prettier configuration.
+- Switched from React.createElement to JSX syntax
+- Configured ESLint and Prettier for JSX support
+- Practiced component composition using reusable components
+- Ran a local API server alongside Vite
+- Used Vite proxy to avoid CORS issues
+- Loaded backend-served assets in React components
